@@ -15,7 +15,6 @@ Headline Eng : Grow beautiful plants in your yard with the best quality seeds.
 
 Id : Mulailah perjalanan pertumbuhan dan keindahan yang mengagumkan dengan tanaman premium kami. Dengan koleksi yang luas dan beragam, kami mempersembahkan pilihan terbaik untuk setiap penggemar tanaman.
 Eng: Embark on an awe-inspiring journey of growth and beauty with our premium plants. With our extensive and diverse collection, we present the finest selection for every plant enthusiast.
-[Slider of 5 plant image]
 
 ### Discover Your Favorite Plant:
 
