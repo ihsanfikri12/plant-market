@@ -1,5 +1,7 @@
 # SeedPlant
 
+You can check the website in here : https://plant-market.netlify.app/
+
 ## About Seed Plant
 
 "Mulailah perjalanan pertumbuhan dan keindahan yang mengagumkan dengan tanaman premium kami. Dengan koleksi yang luas dan beragam, kami mempersembahkan pilihan terbaik untuk setiap penggemar tanaman. Temukan keajaiban alam yang tersembunyi dalam setiap varietas yang kami tawarkan, dari tanaman hias yang memikat hati hingga tanaman buah yang lezat. Dengan perawatan yang penuh kasih, Anda dapat mengalami proses pertumbuhan yang menakjubkan, mengamati setiap tunas yang tumbuh dan bunga yang mekar dengan keindahan yang memukau. Jadikan rumah Anda menjadi taman pribadi yang berbunga dan hijau, tempat Anda dapat bersantai, menyatu dengan alam, dan menciptakan kenangan indah. Bersama-sama, mari kita menjalani petualangan berkebun yang penuh kegembiraan dan membangun kehidupan yang berlimpah dengan keindahan dan ketenangan alam."
