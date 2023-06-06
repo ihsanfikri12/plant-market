@@ -76,14 +76,6 @@ Broccoli: High in fiber, vitamin C, and antioxidants, supports the immune system
 
 "Don't miss out on our exciting promotion! Get exclusive discounts up to 50% off on your purchase of beautiful plants today."
 
-### Contact Information
-
-Address: 623 Harrison St., 2nd Floor, San Francisco, CA 94107
-Phone: 415-201-6370
-Email: hello@omnifood.com
-
-Social profiles: instagram, facebook, twitter [links to them not available yet]
-
 ##############
 
 ## Section
